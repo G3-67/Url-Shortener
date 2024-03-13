@@ -11,6 +11,3 @@ We have created this project by using HTML on the frontend and we use backend as
 
 
 ## **video** 📦 
-https://github.com/G3-67/Sabarish-News-Express/assets/86972845/5eef6519-41a2-4856-8a89-689ac240fdbb
-
-
